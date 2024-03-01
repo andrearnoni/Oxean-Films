@@ -78,9 +78,7 @@ To run all jest tests:
 
 ### OBS
 
-1- For this project, as it is a challenge, for educational purposes the original token is included in the .env folder, however after a certain period it will be deleted. Remembering that it is only for educational and evaluation purposes as this is not a good practice
-
-2 - For Kendoreact, as a paid key for the service is required, if not placed in the project, the project will work the same way, but it will launch some warnings in the browser console and show the following message on the screen: "No valid license found for KendoReact. Learn how to activate your license."
+1 - For Kendoreact, as a paid key for the service is required, if not placed in the project, the project will work the same way, but it will launch some warnings in the browser console and show the following message on the screen: "No valid license found for KendoReact. Learn how to activate your license."
 
 ### Author
 
