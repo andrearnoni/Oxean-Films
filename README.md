@@ -6,7 +6,11 @@
 
 Application that simulates a streaming service for films. The objective in this project was to apply the main concepts of Front-end development. Was used the TMDB api. Designed in responsive mode.
 
-## Demos
+### Try
+
+Try here => https://oxean-films.vercel.app/
+
+### Demos
 
 
 Desktop demo:
@@ -23,7 +27,7 @@ Mobile demo:
 
 <br>
 
-## Used Technologies
+### Used Technologies
 
 * VITE - REACT.JS
 * KENDOREACT 
@@ -32,13 +36,13 @@ Mobile demo:
 * CSS
 * JEST (for tests)
 
-## Features
+### Features
 
 * Can get details about films in a specific page
 * Can view film details through a filterable grid (by columns or general filter)
 * Designed in responsive mode
 
-## To Run Locally
+### To Run Locally
 
 * Clone the project:
 
@@ -78,7 +82,7 @@ To run all jest tests:
 
 2 - For Kendoreact, as a paid key for the service is required, if not placed in the project, the project will work the same way, but it will launch some warnings in the browser console and show the following message on the screen: "No valid license found for KendoReact. Learn how to activate your license."
 
-## Author
+### Author
 
 This project was coded and designed by [@andrearnoni](https://github.com/andrearnoni).
 
