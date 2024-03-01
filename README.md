@@ -72,6 +72,10 @@ To run all jest tests:
 
 `npm test`
 
+### OBS
+
+For this project, as it is a challenge, for educational purposes the original token is included in the .env folder, however after a certain period it will be deleted. Remembering that it is only for educational and evaluation purposes as this is not a good practice
+
 ## Author
 
 This project was coded and designed by [@andrearnoni](https://github.com/andrearnoni).
